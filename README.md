@@ -2,7 +2,7 @@
     <img width="50%" align="right" alt="Current Discord Status" src="https://lanyard.cnrad.dev/api/721110812436987945?bg=1f1f1f&borderRadius=0px">
 </a>
 <a href="https://wakatime.com/@M4X1MUS07" target="_blank">
-    <img width="50%" align="right" alt="All time stats Stats" src="https://github-readme-stats-one-liard-37.vercel.app/api/wakatime?username=M4X1MUS07&border_radius=0px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=All%20Time%20Stats&v=2\&layout=compact">
+    <img width="50%" align="right" alt="All time stats Stats" src="https://github-readme-stats-one-liard-37.vercel.app/api/wakatime?username=M4X1MUS07&border_radius=0px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=All%20time%20stats%20(Tracking%20since%20August%2005%2C%202024)&v=2\&layout=compact">
 </a>
 
 <div align="left">
