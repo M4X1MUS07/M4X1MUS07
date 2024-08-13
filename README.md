@@ -13,8 +13,9 @@ I have plenty of experience in Node.js (JS/TS)<br>
 
 ### Some of the public projects
 1. 🎵 [YouTube Music Synced Lyrics](https://github.com/M4X1MUS07/Synced-Lyrics-YouTube-Music) -> Adds synced lyrics functionality to YouTube Music's website.
-2. 🚛 [ETS2 Dashboard](https://github.com/M4X1MUS07/ets2-dynamic-dashboard) -> A dynamic dashboard that shows game information of ETS2/ATS2 using Game's Telemetry API
-3. 🍿 [Hindi Dub Movie/Series API](https://hindi-dub-api.vercel.app) -> A simple API that can fetch hindi dub series/movies details as well as source links (m3u8 files).
-4. 💻 [Source code for the Hindi DUB API](https://github.com/M4X1MUS07/hindi-dub-api) -> Source for the API mentioned above.
+2. 🖥️ [Discord PC RPC](https://github.com/M4X1MUS07/discord-pc-rpc) -> A discord PC RPC project that displays your current PC information on your profile.
+3. 🚛 [ETS2 Dashboard](https://github.com/M4X1MUS07/ets2-dynamic-dashboard) -> A dynamic dashboard that shows game information of ETS2/ATS2 using Game's Telemetry API
+4. 🍿 [Hindi Dub Movie/Series API](https://hindi-dub-api.vercel.app) -> A simple API that can fetch hindi dub series/movies details as well as source links (m3u8 files).
+5. 💻 [Source code for the Hindi DUB API](https://github.com/M4X1MUS07/hindi-dub-api) -> Source for the API mentioned above.
 
 <b>If I decide to make more public projects, I will surely update this README file, until then, SAYONARA!</b>
