@@ -11,7 +11,8 @@ Must of my projects are private but I occasionally create public projects.<br>
 I have plenty of experience in Node.js (JS/TS)<br>
 </div>
 
-### Some of the public projects
+### Some of the public projects:
+*(I mostly work in private projects)*
 1. 🎵 [YouTube Music Synced Lyrics](https://github.com/M4X1MUS07/Synced-Lyrics-YouTube-Music) -> Adds synced lyrics functionality to YouTube Music's website.
 2. 🖥️ [Discord PC RPC](https://github.com/M4X1MUS07/discord-pc-rpc) -> A discord PC RPC project that displays your current PC information on your profile.
 3. 🚛 [ETS2 Dashboard](https://github.com/M4X1MUS07/ets2-dynamic-dashboard) -> A dynamic dashboard that shows game information of ETS2/ATS2 using Game's Telemetry API
